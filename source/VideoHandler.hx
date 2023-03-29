@@ -3,7 +3,7 @@ package;
 import flixel.FlxBasic;
 import flixel.FlxG;
 
-class FlxVideo extends FlxBasic
+class VideoHandler extends FlxBasic
 {
 	public var finishCallback:Void->Void = null;
 
